@@ -20,11 +20,11 @@ const Team = () => {
     {
       name: "احسان فضلی",
       role: "توسعه‌دهنده فرانت‌اند و بک‌اند",
-      image: "/img/ehsan.png",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/ehsan.png",
       telegram: "@Devehsan",
       website: "https://ehsanjs.ir",
       education: "دانشجوی مهندسی کامپیوتر",
-      experience: "+3 سال تجربه",
+      experience: "+6 سال تجربه",
       projects: "+50 پروژه",
       skills: [
         { name: "PHP", icon: <DiPhp className="text-2xl" />, level: 90 },
@@ -41,11 +41,11 @@ const Team = () => {
     {
       name: "علی بیگی",
       role: "طراح گرافیک و موشن گرافیک",
-      image: "/img/ali.png",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/ali.png",
       telegram: "@n6xel",
       website: "https://naxel.ir",
       education: "دانشجوی مهندسی کامپیوتر",
-      experience: "+2 سال تجربه",
+      experience: "+7 سال تجربه",
       projects: "+30 پروژه",
       skills: [
         { name: "After Effects", icon: <SiAdobeaftereffects className="text-2xl" />, level: 92 },
