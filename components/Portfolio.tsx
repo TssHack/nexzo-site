@@ -23,7 +23,7 @@ const Portfolio = () => {
       id: 1,
       title: "Nexzo Coder",
       category: "bot",
-      description: "یک ربات تلگرامی برای کد نویسی با هوش مصنوعی",
+      description: "ربات تلگرامی برای کد نویسی با هوش مصنوعی",
       image: "/ai-coding-bot-telegram-interface.jpg",
       link: "https://t.me/naxelaibot",
     },
@@ -33,7 +33,7 @@ const Portfolio = () => {
       category: "bot",
       description:
         "یک ربات تلگرامی با هوش مصنوعی قوی و پیشرفته با قابلیت تحلیل عکس و سرچ در اینترنت و همچنین دانلود اهنگ و دانلود از اینستاگرام و تیکتاک و پینترست و اسپاتیفای و ساندکلاد",
-      image: "/advanced-ai-telegram-bot-with-multiple-features.jpg",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/nexzoline.png",
       link: "https://t.me/nexzolinebot",
     },
     {
@@ -41,7 +41,7 @@ const Portfolio = () => {
       title: "FUSION",
       category: "web",
       description: "طراحی سایت با HTML, CSS, JS",
-      image: "/img/fusion.jpg",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/fusion.jpg",
       link: "https://fusion.naxel.ir/",
     },
     {
@@ -62,7 +62,7 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      title: "Logo Design 1",
+      title: "حسابچی",
       category: "logo",
       description: "طراحی لوگو حرفه‌ای",
       image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo30.png",
@@ -70,11 +70,51 @@ const Portfolio = () => {
     },
     {
       id: 7,
-      title: "Logo Design 2",
+      title: "حسابچی",
       category: "logo",
       description: "طراحی لوگو حرفه‌ای",
       image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo31.png",
       link: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo31.png",
+    },
+    {
+      id: 7,
+      title: "صراط",
+      category: "logo",
+      description: "طراحی لوگو حرفه‌ای",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo15.png",
+      link: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo15.png",
+    },
+    {
+      id: 7,
+      title: "شفق",
+      category: "logo",
+      description: "طراحی لوگو حرفه‌ای",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo14.png",
+      link: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo14.png",
+    },
+    {
+      id: 7,
+      title: "Logo Design",
+      category: "logo",
+      description: "طراحی لوگو حرفه‌ای",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo2.png",
+      link: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo2.png",
+    },
+    {
+      id: 7,
+      title: "Logo Design",
+      category: "logo",
+      description: "طراحی لوگو حرفه‌ای",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo12.png",
+      link: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo12.png",
+    },
+    {
+      id: 7,
+      title: "Logo Design",
+      category: "logo",
+      description: "طراحی لوگو حرفه‌ای",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo25.png",
+      link: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/logo25.png",
     },
     {
       id: 8,
@@ -205,3 +245,4 @@ const Portfolio = () => {
 }
 
 export default Portfolio
+
