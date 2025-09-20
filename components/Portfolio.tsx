@@ -41,7 +41,8 @@ const Portfolio = () => {
       title: "FUSION",
       category: "web",
       description: "طراحی سایت با HTML, CSS, JS",
-      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/fusion.jpg",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/fusion.png
+        ",
       link: "https://fusion.naxel.ir/",
     },
     {
