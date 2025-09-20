@@ -32,7 +32,7 @@ const Portfolio = () => {
       title: "Nexzo Line",
       category: "bot",
       description:
-        "یک ربات تلگرامی با هوش مصنوعی قوی و پیشرفته با قابلیت تحلیل عکس و سرچ در اینترنت و همچنین دانلود اهنگ و دانلود از اینستاگرام و تیکتاک و پینترست و اسپاتیفای و ساندکلاد",
+        "ربات تلگرامی با هوش مصنوعی قوی و پیشرفته با قابلیت تحلیل عکس و سرچ در اینترنت و همچنین دانلود اهنگ و دانلود از اینستاگرام و تیکتاک و پینترست و اسپاتیفای و ساندکلاد",
       image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/nexzoline.png",
       link: "https://t.me/nexzolinebot",
     },
@@ -41,8 +41,7 @@ const Portfolio = () => {
       title: "FUSION",
       category: "web",
       description: "طراحی سایت با HTML, CSS, JS",
-      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/fusion.png
-        ",
+      image: "https://raw.githubusercontent.com/TssHack/naxel/refs/heads/main/img/fusion.png",
       link: "https://fusion.naxel.ir/",
     },
     {
