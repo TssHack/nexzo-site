@@ -46,10 +46,10 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "Ehsan GPT-4 API",
+      title: "GPT-4 API",
       category: "api",
       description: "توسعه API هوش مصنوعی",
-      image: "/img/api-gpt.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2RI90rWARpM4Lwq2we8XO83pIoqhZRKYtA&s",
       link: "https://api-ehsan-gpt4.vercel.app/",
     },
     {
@@ -57,7 +57,7 @@ const Portfolio = () => {
       title: "Instagram API",
       category: "api",
       description: "توسعه API اینستاگرام",
-      image: "/img/api-insta.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5giGtcSkaJJj7GCB2lqSqPFm00SSwsPhWK4hObwVpKpteqyHXUxs6sCwKdYKZm-gyFs&usqp=CAU",
       link: "https://insta-ehsan.vercel.app/",
     },
     {
