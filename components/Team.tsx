@@ -27,8 +27,8 @@ const Team = () => {
       experience: "+6 سال تجربه",
       projects: "+50 پروژه",
       skills: [
+        { name: "Node.js", icon: <DiNodejs className="text-2xl" />, level: 100 },
         { name: "PHP", icon: <DiPhp className="text-2xl" />, level: 90 },
-        { name: "Node.js", icon: <DiNodejs className="text-2xl" />, level: 85 },
         { name: "React.js", icon: <DiReact className="text-2xl" />, level: 88 },
         { name: "Flutter", icon: <SiFlutter className="text-2xl" />, level: 80 },
         { name: "Dart", icon: <SiDart className="text-2xl" />, level: 75 },
