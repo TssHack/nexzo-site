@@ -48,7 +48,7 @@ const About = () => {
             className="grid grid-cols-2 gap-6"
           >
             <div className="glass-card p-6 text-center rounded-xl glow-hover">
-              <div className="text-4xl font-bold text-cyan-400 mb-2">2+</div>
+              <div className="text-4xl font-bold text-cyan-400 mb-2">7+</div>
               <div className="text-gray-300">سال تجربه</div>
             </div>
             <div className="glass-card p-6 text-center rounded-xl glow-hover">
